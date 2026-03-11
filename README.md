@@ -7,7 +7,11 @@ The dashboard helps analyze loan performance, funding trends, and borrower chara
 
 The goal of this project is to **identify loan patterns, evaluate risk, and support data-driven decision making in the banking sector**.
 
----
+## 🎯 Project Objective
+The objective of this project is to:
+- Analyze **loan performance and funding trends**
+- Identify **good vs bad loan patterns**
+- Provide **interactive dashboards for better financial insights**
 
 ## 📊 Dashboards
 
@@ -52,11 +56,6 @@ Provides **loan-level detailed information** allowing users to explore individua
 
 ---
 
-## 🎯 Project Objective
-The objective of this project is to:
-- Analyze **loan performance and funding trends**
-- Identify **good vs bad loan patterns**
-- Provide **interactive dashboards for better financial insights**
 
 ---
 
